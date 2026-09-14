@@ -1,141 +1,185 @@
-### Hi there 👋, I'm [Abhinand VJ](https://github.com/abhinandvj)👨‍💻
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+# Hi, I'm Abhinand VJ 👋
 
-- 👀 I’m interested in Web Development , Data science & technologies
-- 🌱 I’m currently working on Self-Development -  Website - Django API + React & Redux - Cars website.
-- 💞️ I’m looking to collaborate with someone who is working on Web Application Project.
-- 📫 How to reach me - github id - AbhinandVJ6
+### Assistant Manager | Academic Operations | Full-Stack Development
 
+I’m an Assistant Manager at ODA Class with experience in **team management, academic operations, student engagement, performance monitoring, and technical mentoring**.
 
+I also have a background in **Full-Stack Web Development**, with hands-on experience in **Django, React, Redux, Python, JavaScript, SQL, and web application development**.
 
+I enjoy solving operational problems with technology, building useful web applications, and continuously learning new technologies.
 
+---
+
+## 🚀 About Me
+
+- 🧑‍💼 Currently working as **Assistant Manager – Academic Operations at ODA Class**
+- 👥 Managing and supporting academic operations for **4000+ students weekly**
+- 📊 Experienced in team coordination, performance tracking, and operational improvement
+- 💻 Background in **Full-Stack Web Development**
+- 🔧 Worked with **Django, React, Redux, Python, JavaScript, SQL**
+- 🎓 B.Tech in **Electrical & Electronics Engineering**
+- 🌱 Interested in technology, web development, data science, and self-development
+- 🌳 Long-term goal: build technology-driven solutions for environmental services
+- 📍 Bengaluru, Karnataka, India
+
+---
 ### 👀 Profile Visitors
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AbhinandVJ6&label=Profile%20Views&color=0e75b6&style=flat)
 
 <br/>
 
-<a href="https://www.linkedin.com/in/abhinandvj6/">
-  <img align="left" alt="Abhinand Linkedin" width="80px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+## 💼 Experience
 
-<a href="add your link here">
-  <img align="left" alt="" width="80px" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-</a>
+### ODA Class — Assistant Manager
+**April 2026 – Present | Bengaluru**
 
-<a href="add your link here">
-  <img align="left" alt=" | Twitter" width="80px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-</a>
+- Managing and guiding a team in academic operations and student engagement
+- Supporting academic operations for **4000+ students weekly**
+- Monitoring team performance and operational targets
+- Coordinating with internal teams for workflow and issue resolution
+- Supporting training, performance tracking, and daily operations
+- Maintaining structured communication and mentorship support for students
 
-<a href="abhinandvj6@gmail.com">
-  <img align="left" alt="Abhinand's Email" width="80px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+### ODA Class — Academic Mentor
+**July 2024 – April 2026 | Bengaluru**
 
+- Mentored students in technical subjects and project understanding
+- Simplified complex concepts to improve learning clarity
+- Provided structured academic guidance and support
+- Assisted students with assignments and technical learning
 
-<br />
+### NoBroker — Associate Relationship Manager
+**March 2023 – March 2024 | Bengaluru**
 
-<br/>
+- Managed client communication and service-related queries
+- Coordinated between customers and internal teams
+- Supported smooth processing and customer service operations
 
-<p>
-A Skilled FullStack Web Developer 🚀 from India. Always working on some project or learning something new!
-<br/>
-Stacks I have worked with : React-Redux
-<br/>  
-Things I am currently experimenting with : HTML, CSS, JavaScript, Django, React, Redux
-<br/>
-Want to become an Entrerpreneur for Environmental Services 🌳 and an Open Source Contributor for Nature thru Web Tech 💚.
+### TECH I.S — Full-Stack Developer
+**May 2022 – February 2023 | Bengaluru / Remote support for USA operations**
+
+- Worked on internal web development projects
+- Developed applications based on company requirements
+- Worked on the backend of CRM tools
+- Assisted students with web development projects and portfolio building
+- Helped learners understand foundational data science concepts
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### Backend & Programming
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+### Database & Tools
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+---
+
+## 🔥 Featured Project
+
+### Leave Management System
+
+A web-based leave management application developed for **TECH I.S** and integrated into its Task Management System.
+
+**Highlights:**
+- ⚙️ 10+ functionalities
+- 🌍 Built for employees across USA, Tokyo, and Bangalore
+- 📱 Responsive across 10+ device platforms
+- 🧩 Built using **Django, React, Redux** and additional supporting technologies
+- 📉 Operational process improvements that reduced employee-related hassle by **40%**
+
+---
+
+## 🎓 Education
+
+**B.Tech – Electrical & Electronics Engineering**  
+Prist Institute of Engineering & Technology  
+**2016 – 2020 | CGPA: 7.34**
+
+---
+
+## 📜 Certifications
+
+- Web Development in HTML & CSS — Masai School
+- Web Development — Spark Technologies Pvt. Ltd.
+- Programming in C — IIT Bombay / Indian Institute of Bombay
+- AutoCAD — Certified Professional
+- Cambridge English ESOL — Cambridge Institution, U.K.
+
+---
+
+## ⚡ Technical Interests
+
+- Web Development
+- Data Science
+- Emerging Technologies
+- Android Rooting & ROM Modding
+- Computer Hardware & OS Troubleshooting
+- Open Source
+- Technology for Environmental Services
+
+---
+
+## 🌍 Languages
+
+- English — Fluent
+- Malayalam — Native
+- Hindi — Fluent
+- Tamil — Proficient
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbhinandVJ6&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhinandVJ6&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
-
-  
-  
-### ✨ Quick Facts
-
-- 👨🏽‍💻 I’m currently working as a Full Stack Web Developer @ [TECHIS](https://techis.io/)
-
-- 📫 How to reach me: abhinandvj6@gmail.com
-- 📝 [Resume](https://docs.google.com/document/d/1Ca59WYa5yXrxtKArkr1udaSbvRpmdETEfZZPZ0mnTQY/edit?usp=sharing)
-
-### 🛠️ Languages and Tools:
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![HTML5](	https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
-![SQL](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Powerpoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![React-Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-
-
-
-###### ❤️ Offer work : Send the offer on [Linkedin Badge](https://www.linkedin.com/in/abhinandvj6/) 
-or
-[![Gmail Badge](https://img.shields.io/badge/-abhinandvj6@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abhinandvj6@gmail.com)](mailto:sabhinandvj6@gmail.com)
-
-
-###### ❤️ Follow : You can follow me here on [![GitHub followers](https://img.shields.io/github/followers/abhinand?label=Follow&style=social)](https://github.com/AbhinandVJ6/?tab=follow) and [![Twitter Badge](https://img.shields.io/badge/-ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/)](https://twitter.com/) if you are on a similar path as mine.
-
-
-###### ❤️ Connect with me : [![Linkedin Badge](https://img.shields.io/badge/-Abhinand VJ-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/)]([https://www.linkedin.com/in](https://www.linkedin.com/in/abhinandvj6/))
-
-
-----------------------------------------------------------
-
-![](https://github-readme-stats.vercel.app/api?username=abhinandvj&theme=blue-green)
-
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhinandvj&theme=blue-green)
-
-
-![](https://img.shields.io/badge/Maintained%3F-yes-green.svg)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-- 📫 How to reach me ... Mail me: abhinandvj6@gmail.com 
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AbhinandVJ6&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-### :fire: My Stats : [click me](https://github-readme-streak-stats.herokuapp.com/?user=abhinandvj)
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AbhinandVJ6&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
 
 ---
 
+## 🤝 Let's Connect
 
+<p align="center">
+  <a href="https://github.com/AbhinandVJ6">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/abhinand-vj-9a308a94/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:abhinandvj6@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
-
-
-
-
-
-
-.
-
-<!---
-abhinandvj/abhinandvj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  <b>Always learning. Always building. Always improving. 🚀</b>
+</p>
