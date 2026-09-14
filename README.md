@@ -11,8 +11,9 @@
 
 
 
-### Visitors-Count
-![Visitor Count](https://profile-counter.glitch.me/{abhinandvj}/count.svg)   
+### 👀 Profile Visitors
+
+![Profile Views](https://komarev.com/ghpvc/?username=AbhinandVJ6&label=Profile%20Views&color=0e75b6&style=flat)
 
 <br/>
 
