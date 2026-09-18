@@ -10,7 +10,7 @@ I enjoy solving operational problems with technology, building useful web applic
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 - 🧑‍💼 Currently working as **Assistant Manager – Academic Operations at ODA Class**
 - 👥 Managing and supporting academic operations for **4000+ students weekly**
